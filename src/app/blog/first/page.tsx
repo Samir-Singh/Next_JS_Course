@@ -1,7 +1,7 @@
 import React from "react";
 
 const FirstBlog = () => {
-  return <div>First Blog Page</div>;
+  return <h1>First Blog Page</h1>;
 };
 
 export default FirstBlog;
